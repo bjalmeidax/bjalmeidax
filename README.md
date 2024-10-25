@@ -1,4 +1,4 @@
-`System.out.println("Welcome to my github!😆")`
+`print("Welcome to my GitHub! 😆")`
 
 ---
 
