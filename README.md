@@ -7,3 +7,6 @@
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+Here you'll find some projects focused in the following technologies:
+
