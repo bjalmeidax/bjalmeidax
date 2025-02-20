@@ -6,7 +6,8 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) ![image](https://github.com/user-attachments/assets/483a92ec-5e4b-4c38-a1ad-6684a8b8d735)
+
 
 Here you'll find some projects focused in the following technologies:
 
