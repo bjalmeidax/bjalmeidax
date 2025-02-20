@@ -1,4 +1,8 @@
-`print("Welcome to my GitHub!😆")`
+`public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World 😆!");
+    }
+}`
 
 ---
 
@@ -12,3 +16,4 @@
 Here you'll find some projects focused in the following technologies:
 
 - JavaScript, HTML and CSS
+- Java
